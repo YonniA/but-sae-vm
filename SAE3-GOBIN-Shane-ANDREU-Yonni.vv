@@ -3,7 +3,7 @@ type=vnc
 title=SAE3-GOBIN-Shane-ANDREU-Yonni
 host=one-dell1
 port=11083
-proxy=http://one-frontend:29876?token=hx6y1ckxzpa82xusutju
+proxy=http://one-frontend:29876?token=dg48y0vo8vi13mwmuexz
 fullscreen=0
 toggle-fullscreen=shift+f11
 release-cursor=shift+f12
